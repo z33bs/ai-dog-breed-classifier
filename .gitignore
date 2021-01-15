@@ -9,3 +9,5 @@
 *.pt
 
 .virtual_documents/
+
+__pycache__/
